@@ -1,0 +1,3 @@
+import os
+os.system("clear")
+print ("now windows is on your files...you are hacked by windows")
