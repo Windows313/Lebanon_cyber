@@ -44,7 +44,7 @@ def banner():
     runntxt(Y+"          AMIRAL LB*I")
     runntxt(GG+"           JAHIM LB ")
     runntxt(RR+".         THE UNKNOWN CYBER") 
-    runntxt(BB+.             Jelad lb ") 
+    runntxt(BB+ "           Jelad lb ") 
     runntxt(C+.       Vairus 7x") 
     time.sleep(1.5)
     print GG+"  √=============================================√"
