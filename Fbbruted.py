@@ -45,7 +45,7 @@ def banner():
     runntxt(GG+"           JAHIM LB ")
     runntxt(RR+".         THE UNKNOWN CYBER") 
     runntxt(BB+ "           Jelad lb ") 
-    runntxt(C+.       Vairus 7x") 
+    runntxt(C+"       Vairus 7x") 
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
