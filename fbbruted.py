@@ -41,18 +41,18 @@ def banner():
     runntxt(WW+"                    WINDOWS_313")
     runntxt(GL+"                  JAYFOX")
     runntxt(GG+"                ABU ZENB MUSSAWI")
-    runntxt(Y+"              AMIRAL LB")
+     runntxt(Y+"              AMIRAL LB")
     runntxt(GG+"            JAHIM LB ")
-    runntxt(RR+"         THE UNKNOWN CYBER") 
-    runntxt(BB+"        Jelad lb") 
-    runntxt(C+"     Vairus 7x") 
-    runntxt(B+"   Anonymous lb")
-    runntxt(W+"  Unknownfan") 
+    runntxt(RR+"          THE UNKNOWN CYBER") 
+    runntxt(BB+"        JELAD LB") 
+     runntxt(C+"      VAIRUS 7x") 
+     runntxt(Y+"    ANONYMOUS LB")
+     runntxt(W+"  UNKNOWNFAN") 
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |           MOD BY: THE TEAM                 |"
+    print WW+"  |           MOD BY: THE TEAM                  |"
     print GL+"  |           TELEGRAM : t.me/AyoubTheWindows   |"
     print WW+"  |           TEAM :  LEBANON CYBER             |"
     print Y+"  |             INSTAGRAM: WINDOWS_313          |"
@@ -60,7 +60,7 @@ def banner():
     print GL+"  |          🥂  LEBANON   CYBER  🥂            |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••     HACK FACEBOOK   ^_^   •••••••••|"
+    print GL+"  |•••••••••       BRUTEFORCE    ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
@@ -154,7 +154,7 @@ def life():
 def runn_noobs():
          global password_list
 
-         lop = GG+"""          ㄥ☠乇☠卂☠乃☠几☠ㄖ☠几☠
+         lop = GG+"""       ㄥ☠乇☠卂☠乃☠几☠ㄖ☠几☠
 	 匚☠ㄚ☠乃☠乇☠尺☠\033[91;1m
                 \033[90;1mANONYMOUS\033[91;1m
              Powered by:\033[97m LEBANON CYBER
