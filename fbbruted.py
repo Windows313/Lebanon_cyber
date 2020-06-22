@@ -50,12 +50,12 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |        MOD BY: THE TEAM                     |"
-    print GL+"  |        TELEGRAM :t.me/AyoubTheWindows       |"
+    print WW+"  |            MOD BY: THE TEAM                 |"
+    print GL+"  |                 ANONYMOUS                   |"
     print WW+"  |        TEAM :  LEBANON CYBER                |"
-    print Y+"  |        INSTAGRAM: WINDOWS_313               |"
+    print Y+"  |             INSTAGRAM: WINDOWS_313           |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |               LEBANON   CYBER.              |"
+    print GL+"  |        LEBANON   CYBER.                     |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••     HACK FACEBOOK   ^_^   •••••••••|"
@@ -152,16 +152,8 @@ def life():
 def runn_noobs():
          global password_list
 
-         lop = GG+"""
-	 _     _____ ____    _    _   _  ___  _   _    ______   ______  _____ ____
-
-| |   | ____| __ )  / \  | \ | |/ _ \| \ | |  / ___\ \ / / __ )| ____|  _ \
-
-| |   |  _| |  _ \ / _ \ |  \| | | | |  \| | | |    \ V /|  _ \|  _| | |_) |
-
-| |___| |___| |_) / ___ \| |\  | |_| | |\  | | |___  | | | |_) | |___|  _ <
-
-|_____|_____|____/_/   \_\_| \_|\___/|_| \_|  \____| |_| |____/|_____|_| \_\ \033[91;1m
+         lop = GG+"""ㄥ☠乇☠卂☠乃☠几☠ㄖ☠几☠
+	 匚☠ㄚ☠乃☠乇☠尺☠\033[91;1m
                 \033[90;1mANONYMOUS\033[91;1m
              Powered by:\033[97m LEBANON CYBER
       """
