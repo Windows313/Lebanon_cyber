@@ -60,7 +60,7 @@ def banner():
 
     os.system('clear')
 
-    print " "
+
 
     runntxt(GL+"    SHARE THIS TOOLS ^_^")
 
