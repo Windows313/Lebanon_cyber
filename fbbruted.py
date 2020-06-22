@@ -38,27 +38,27 @@ def banner():
     print (" ") 
     runntxt(GL+"    SHARE THIS TOOLS ^_^")
     runntxt(WW+"   THE TEAM  ")
-    runntxt(WW+"WINDOWS_313")
-    runntxt(GL+"JAYFOX")
-    runntxt(GG+"ABU ZENB MUSSAWI")
-    runntxt(Y+"AMIRAL LB")
-    runntxt(GG+"JAHIM LB ")
-    runntxt(RR+"THE UNKNOWN CYBER") 
-    runntxt(BB+"Jelad lb") 
-    runntxt(C+"Vairus 7x") 
+    runntxt(WW+"                    WINDOWS_313")
+    runntxt(GL+"                  JAYFOX")
+    runntxt(GG+"                ABU ZENB MUSSAWI")
+    runntxt(Y+"              AMIRAL LB")
+    runntxt(GG+"            JAHIM LB ")
+    runntxt(RR+"         THE UNKNOWN CYBER") 
+    runntxt(BB+"        Jelad lb") 
+    runntxt(C+"     Vairus 7x") 
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: THE TEAM            |"
-    print GL+"  |                 ANONYMOUS               |"
-    print WW+"  |        TEAM :  LEBANON CYBER           |"
-    print Y+"  |             INSTAGRAM: WINDOWS_313       |"
+    print WW+"  |            MOD BY: THE TEAM                 |"
+    print GL+"  |                 ANONYMOUS                   |"
+    print WW+"  |        TEAM :  LEBANON CYBER                |"
+    print Y+"  |             INSTAGRAM: WINDOWS_313           |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LEBANON   CYBER.                                             .         |"
+    print GL+"  |        LEBANON   CYBER.                     |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK ^_^   •••••••••|"
+    print GL+"  |•••••••••     HACK FACEBOOK   ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
@@ -162,8 +162,8 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
-         print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
+         print wd+" [#] The number of the password that will be guessed\033[97;1m:", len(nuub),'password'
+         print wd+" [#] Wait for Process Cracking \033[97;1m.........."
          print (" ") 
 
 if __name__=='__main__':
