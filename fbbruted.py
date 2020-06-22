@@ -41,13 +41,13 @@ def banner():
     runntxt(WW+"                    WINDOWS_313")
     runntxt(GL+"                  JAYFOX")
     runntxt(GG+"                ABU ZENB MUSSAWI")
-     runntxt(Y+"              AMIRAL LB")
+    runntxt(Y+"               AMIRAL LB")
     runntxt(GG+"            JAHIM LB ")
     runntxt(RR+"          THE UNKNOWN CYBER") 
     runntxt(BB+"        JELAD LB") 
-     runntxt(C+"      VAIRUS 7x") 
-     runntxt(Y+"    ANONYMOUS LB")
-     runntxt(W+"  UNKNOWNFAN") 
+    runntxt(C+"       VAIRUS 7x") 
+    runntxt(Y+"     ANONYMOUS LB")
+    runntxt(W+"   UNKNOWNFAN") 
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
