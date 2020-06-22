@@ -53,7 +53,7 @@ def banner():
     print WW+"  |        MOD BY: THE TEAM                     |"
     print GL+"  |        TELEGRAM :t.me/AyoubTheWindows       |"
     print WW+"  |        TEAM :  LEBANON CYBER                |"
-    print Y+"   |        INSTAGRAM: WINDOWS_313               |"
+    print Y+"  |        INSTAGRAM: WINDOWS_313               |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |               LEBANON   CYBER.              |"
     print GL+"  |---------------------------------------------|"
